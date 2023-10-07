@@ -14,5 +14,7 @@ i am hungry   =>  ne pitya ta
 # Greetings
 - English
   - How are you?
+  - Possible Answer : I have so many troubles
 - Newari
   - mha fula?
+  - Possible Answer : sikkee pir jui ya chona
